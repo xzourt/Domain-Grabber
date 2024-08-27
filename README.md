@@ -7,7 +7,7 @@ Requirement :
 
 - `Python 3.x`
 
-Result well be save in folder result
+Result well be save in folder Result
 
 How To Usage :
 
